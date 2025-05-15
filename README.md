@@ -1,3 +1,15 @@
+# Overview
+The Digital Clock is a simple web-based application that displays the current time in real-time. It updates every second and is built using CSS and ReactJS, 
+
+# Features
+- Displays the current time in HH:MM:SS format.
+
+- Automatically updates every second.
+
+- Optionally supports 12-hour or 24-hour format.
+
+- Responsive design for both desktop and mobile view.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
